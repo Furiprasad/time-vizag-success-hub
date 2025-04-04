@@ -8,7 +8,7 @@ const Contact = () => {
       <PageHeader 
         title="Contact Us" 
         subtitle="Get in touch with our team for inquiries and admissions"
-        backgroundImage="/lovable-uploads/a46570f2-1815-4b5f-b948-44c098b11946.png"
+        backgroundImage="/lovable-uploads/09ee2a5b-5f32-45bd-b1ec-a265d999aa2c.png"
       />
 
       {/* Main Content */}
@@ -68,10 +68,17 @@ const Contact = () => {
             </div>
             
             <div>
+              <div className="mb-6">
+                <img 
+                  src="/lovable-uploads/09ee2a5b-5f32-45bd-b1ec-a265d999aa2c.png" 
+                  alt="Contact Us" 
+                  className="w-full rounded-lg shadow-xl mb-8"
+                />
+              </div>
               <iframe 
                 src="https://docs.google.com/forms/d/e/1FAIpQLSdKXMSL_Jv8e1xXpzjHqx7K_TW082y1Bjy_yL2J0YD38dthlQ/viewform?embedded=true" 
                 width="100%" 
-                height="800" 
+                height="700" 
                 style={{ border: 0 }}
                 title="Contact Form"
               >

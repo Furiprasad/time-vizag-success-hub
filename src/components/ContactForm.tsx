@@ -13,12 +13,21 @@ const ContactForm = () => {
           <p className="text-gray-600 max-w-2xl mx-auto">
             Have questions about our courses or want to enroll? Fill out the form below and our team will get back to you shortly.
           </p>
-          <Button 
-            className="mt-4 bg-time-yellow hover:bg-time-blue text-time-blue hover:text-white font-medium py-2 px-6 rounded-md transition-colors"
-            onClick={() => setShowIframe(true)}
-          >
-            Contact Us
-          </Button>
+          <div className="mt-6 flex flex-col md:flex-row items-center justify-center gap-6">
+            <img 
+              src="/lovable-uploads/09ee2a5b-5f32-45bd-b1ec-a265d999aa2c.png" 
+              alt="Contact Us" 
+              className="w-full md:w-1/3 max-w-md rounded-lg shadow-md"
+            />
+            <div className="flex flex-col items-center">
+              <Button 
+                className="mt-4 bg-time-yellow hover:bg-time-blue text-time-blue hover:text-white font-medium py-2 px-6 rounded-md transition-colors"
+                onClick={() => setShowIframe(true)}
+              >
+                Contact Us
+              </Button>
+            </div>
+          </div>
         </div>
 
         {showIframe && (
