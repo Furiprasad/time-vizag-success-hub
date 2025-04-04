@@ -1,4 +1,3 @@
-
 import PageHeader from "@/components/PageHeader";
 import ContactForm from "@/components/ContactForm";
 import { CheckCircle, Clock, Users, BookOpen } from "lucide-react";
@@ -11,7 +10,7 @@ const Courses = () => {
       <PageHeader 
         title="Courses Offered" 
         subtitle="Explore our comprehensive range of exam preparation courses"
-        backgroundImage="/coursesOffered.jpg"
+        backgroundImage="/lovable-uploads/4eef0c8c-169a-4e1f-a9ff-ecc758e6aa1c.png"
       />
 
       {/* Main Content */}
@@ -32,7 +31,7 @@ const Courses = () => {
             </div>
             <div>
               <img 
-                src="/coursesOffered.jpg" 
+                src="/lovable-uploads/4eef0c8c-169a-4e1f-a9ff-ecc758e6aa1c.png" 
                 alt="TIME Institute Students" 
                 className="rounded-lg shadow-xl w-full h-auto"
               />

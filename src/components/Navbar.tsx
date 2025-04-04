@@ -15,7 +15,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4 py-3">
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center">
-            <img src="/timeLogo.png" alt="TIME Logo" className="h-16" />
+            <img src="/lovable-uploads/ffd963a9-37d7-4941-9ae5-013fbc6d8eab.png" alt="TIME Logo" className="h-16" />
           </Link>
 
           {/* Desktop Navigation */}

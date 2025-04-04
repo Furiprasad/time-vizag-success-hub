@@ -71,7 +71,7 @@ const Home = () => {
           <div className="flex flex-col md:flex-row items-center gap-10">
             <div className="md:w-1/2">
               <img
-                src="/aboutUs.jpg"
+                src="/lovable-uploads/e6a587da-110c-42fb-b7ed-6cdd2533589d.png"
                 alt="About TIME Institute"
                 className="rounded-lg shadow-lg w-full"
               />

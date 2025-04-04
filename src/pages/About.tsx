@@ -9,7 +9,7 @@ const About = () => {
       <PageHeader 
         title="About Us" 
         subtitle="Learn more about TIME Institute's 32-year journey of academic excellence"
-        backgroundImage="/aboutUs.jpg"
+        backgroundImage="/lovable-uploads/e6a587da-110c-42fb-b7ed-6cdd2533589d.png"
       />
 
       {/* Main Content */}
@@ -30,7 +30,7 @@ const About = () => {
             </div>
             <div>
               <img 
-                src="/aboutUs.jpg" 
+                src="/lovable-uploads/e6a587da-110c-42fb-b7ed-6cdd2533589d.png" 
                 alt="TIME Institute Classroom" 
                 className="rounded-lg shadow-xl w-full h-auto"
               />

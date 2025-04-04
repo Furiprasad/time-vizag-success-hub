@@ -8,7 +8,7 @@ const Contact = () => {
       <PageHeader 
         title="Contact Us" 
         subtitle="Get in touch with our team for inquiries and admissions"
-        backgroundImage="/contactUs.jpg"
+        backgroundImage="/lovable-uploads/a46570f2-1815-4b5f-b948-44c098b11946.png"
       />
 
       {/* Main Content */}

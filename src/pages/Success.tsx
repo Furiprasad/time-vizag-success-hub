@@ -9,7 +9,7 @@ const Success = () => {
       <PageHeader 
         title="Success Stories" 
         subtitle="Celebrating our students' remarkable achievements"
-        backgroundImage="/successStories.jpg"
+        backgroundImage="/lovable-uploads/34874f34-3310-4d5d-bd1b-5a9f33c319ee.png"
       />
 
       {/* Main Content */}
@@ -30,7 +30,7 @@ const Success = () => {
             </div>
             <div>
               <img 
-                src="/successStories.jpg" 
+                src="/lovable-uploads/34874f34-3310-4d5d-bd1b-5a9f33c319ee.png" 
                 alt="TIME Institute Success" 
                 className="rounded-lg shadow-xl w-full h-auto"
               />
