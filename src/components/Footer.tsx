@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <Link to="/">
-              <img src="/lovable-uploads/caed1faf-32f4-4261-b13b-07fe87943f2f.png" alt="SVN Logo" className="h-16 mb-4" />
+              <img src="/lovable-uploads/09725103-d05b-4314-ac4e-8e50c48b9389.png" alt="TIME Logo" className="h-16 mb-4 bg-white p-2 rounded" />
             </Link>
             <p className="mb-4">
               Triumphant Institute of Management Education Pvt. Ltd., a trusted name in competitive exam coaching for over 32 years.
