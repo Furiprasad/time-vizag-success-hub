@@ -1,3 +1,4 @@
+
 import { Link } from "react-router-dom";
 import { Facebook, Twitter, Instagram, Linkedin, MapPin, Phone, Mail } from "lucide-react";
 
@@ -8,7 +9,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <Link to="/">
-              <img src="/lovable-uploads/0ab6f7bc-34b0-46ae-87ef-6f09e3254b91.png" alt="TIME Logo" className="h-16 bg-white rounded p-1 mb-4" />
+              <img src="/lovable-uploads/caed1faf-32f4-4261-b13b-07fe87943f2f.png" alt="SVN Logo" className="h-16 mb-4" />
             </Link>
             <p className="mb-4">
               Triumphant Institute of Management Education Pvt. Ltd., a trusted name in competitive exam coaching for over 32 years.
